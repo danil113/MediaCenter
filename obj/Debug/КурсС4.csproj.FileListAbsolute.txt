@@ -1,0 +1,434 @@
+C:\Users\PK-7\source\repos\КурсС4\bin\Debug\КурсС4.exe.config
+C:\Users\PK-7\source\repos\КурсС4\bin\Debug\КурсС4.exe
+C:\Users\PK-7\source\repos\КурсС4\bin\Debug\КурсС4.pdb
+C:\Users\PK-7\source\repos\КурсС4\bin\Debug\EntityFramework.dll
+C:\Users\PK-7\source\repos\КурсС4\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PK-7\source\repos\КурсС4\bin\Debug\EntityFramework.xml
+C:\Users\PK-7\source\repos\КурсС4\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PK-7\source\repos\КурсС4\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\PK-7\source\repos\КурсС4\obj\Debug\КурсС4.csproj.AssemblyReference.cache
+C:\Users\PK-7\source\repos\КурсС4\obj\Debug\MainWindow.g.cs
+C:\Users\PK-7\source\repos\КурсС4\obj\Debug\App.g.cs
+C:\Users\PK-7\source\repos\КурсС4\obj\Debug\КурсС4_Content.g.cs
+C:\Users\PK-7\source\repos\КурсС4\obj\Debug\КурсС4_MarkupCompile.cache
+C:\Users\PK-7\source\repos\КурсС4\obj\Debug\КурсС4_MarkupCompile.lref
+C:\Users\PK-7\source\repos\КурсС4\obj\Debug\MainWindow.baml
+C:\Users\PK-7\source\repos\КурсС4\obj\Debug\КурсС4.g.resources
+C:\Users\PK-7\source\repos\КурсС4\obj\Debug\КурсС4.Properties.Resources.resources
+C:\Users\PK-7\source\repos\КурсС4\obj\Debug\КурсС4.csproj.GenerateResource.cache
+C:\Users\PK-7\source\repos\КурсС4\obj\Debug\КурсС4.csproj.CoreCompileInputs.cache
+C:\Users\PK-7\source\repos\КурсС4\obj\Debug\КурсС4.csproj.CopyComplete
+C:\Users\PK-7\source\repos\КурсС4\obj\Debug\КурсС4.exe
+C:\Users\PK-7\source\repos\КурсС4\obj\Debug\КурсС4.pdb
+C:\Users\PK-7\source\repos\КурсС4\obj\Debug\MenuPage.g.cs
+C:\Users\PK-7\source\repos\КурсС4\obj\Debug\MenuPage.baml
+C:\Users\PK-7\source\repos\КурсС4\obj\Debug\ClientPage.g.cs
+C:\Users\PK-7\source\repos\КурсС4\obj\Debug\ClientPage.baml
+C:\Users\PK-7\source\repos\КурсС4\obj\Debug\OrdersPage.g.cs
+C:\Users\PK-7\source\repos\КурсС4\obj\Debug\TypePage.g.cs
+C:\Users\PK-7\source\repos\КурсС4\obj\Debug\OrdersPage.baml
+C:\Users\PK-7\source\repos\КурсС4\obj\Debug\TypePage.baml
+C:\Users\PK-7\source\repos\КурсС4\obj\Debug\AddEditPage.g.cs
+C:\Users\PK-7\source\repos\КурсС4\obj\Debug\AddEditPage.baml
+C:\Users\PK-7\source\repos\КурсС4\obj\Debug\AutPage.g.cs
+C:\Users\PK-7\source\repos\КурсС4\obj\Debug\RegPage.g.cs
+C:\Users\PK-7\source\repos\КурсС4\obj\Debug\AutPage.baml
+C:\Users\PK-7\source\repos\КурсС4\obj\Debug\RegPage.baml
+C:\Users\PK-7\source\repos\КурсС4\obj\Debug\AddEditPageType.g.cs
+C:\Users\PK-7\source\repos\КурсС4\obj\Debug\AddEditPageType.baml
+C:\Users\Данила\Desktop\ \эти ваши wpf\КурсС4\bin\Debug\КурсС4.exe.config
+C:\Users\Данила\Desktop\ \эти ваши wpf\КурсС4\bin\Debug\КурсС4.exe
+C:\Users\Данила\Desktop\ \эти ваши wpf\КурсС4\bin\Debug\КурсС4.pdb
+C:\Users\Данила\Desktop\ \эти ваши wpf\КурсС4\bin\Debug\EntityFramework.dll
+C:\Users\Данила\Desktop\ \эти ваши wpf\КурсС4\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Данила\Desktop\ \эти ваши wpf\КурсС4\bin\Debug\EntityFramework.xml
+C:\Users\Данила\Desktop\ \эти ваши wpf\КурсС4\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Данила\Desktop\ \эти ваши wpf\КурсС4\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Данила\Desktop\ \эти ваши wpf\КурсС4\obj\Debug\КурсС4.csproj.AssemblyReference.cache
+C:\Users\Данила\Desktop\ \эти ваши wpf\КурсС4\obj\Debug\КурсС4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Данила\Desktop\ \эти ваши wpf\КурсС4\obj\Debug\AddEditPage.g.cs
+C:\Users\Данила\Desktop\ \эти ваши wpf\КурсС4\obj\Debug\AddEditPageType.g.cs
+C:\Users\Данила\Desktop\ \эти ваши wpf\КурсС4\obj\Debug\AutPage.g.cs
+C:\Users\Данила\Desktop\ \эти ваши wpf\КурсС4\obj\Debug\ClientPage.g.cs
+C:\Users\Данила\Desktop\ \эти ваши wpf\КурсС4\obj\Debug\MainWindow.g.cs
+C:\Users\Данила\Desktop\ \эти ваши wpf\КурсС4\obj\Debug\MenuPage.g.cs
+C:\Users\Данила\Desktop\ \эти ваши wpf\КурсС4\obj\Debug\OrdersPage.g.cs
+C:\Users\Данила\Desktop\ \эти ваши wpf\КурсС4\obj\Debug\RegPage.g.cs
+C:\Users\Данила\Desktop\ \эти ваши wpf\КурсС4\obj\Debug\TypePage.g.cs
+C:\Users\Данила\Desktop\ \эти ваши wpf\КурсС4\obj\Debug\App.g.cs
+C:\Users\Данила\Desktop\ \эти ваши wpf\КурсС4\obj\Debug\КурсС4_Content.g.cs
+C:\Users\Данила\Desktop\ \эти ваши wpf\КурсС4\obj\Debug\КурсС4_MarkupCompile.cache
+C:\Users\Данила\Desktop\ \эти ваши wpf\КурсС4\obj\Debug\КурсС4_MarkupCompile.lref
+C:\Users\Данила\Desktop\ \эти ваши wpf\КурсС4\obj\Debug\AddEditPage.baml
+C:\Users\Данила\Desktop\ \эти ваши wpf\КурсС4\obj\Debug\AddEditPageType.baml
+C:\Users\Данила\Desktop\ \эти ваши wpf\КурсС4\obj\Debug\AutPage.baml
+C:\Users\Данила\Desktop\ \эти ваши wpf\КурсС4\obj\Debug\ClientPage.baml
+C:\Users\Данила\Desktop\ \эти ваши wpf\КурсС4\obj\Debug\MainWindow.baml
+C:\Users\Данила\Desktop\ \эти ваши wpf\КурсС4\obj\Debug\MenuPage.baml
+C:\Users\Данила\Desktop\ \эти ваши wpf\КурсС4\obj\Debug\OrdersPage.baml
+C:\Users\Данила\Desktop\ \эти ваши wpf\КурсС4\obj\Debug\RegPage.baml
+C:\Users\Данила\Desktop\ \эти ваши wpf\КурсС4\obj\Debug\TypePage.baml
+C:\Users\Данила\Desktop\ \эти ваши wpf\КурсС4\obj\Debug\КурсС4.g.resources
+C:\Users\Данила\Desktop\ \эти ваши wpf\КурсС4\obj\Debug\КурсС4.Properties.Resources.resources
+C:\Users\Данила\Desktop\ \эти ваши wpf\КурсС4\obj\Debug\КурсС4.csproj.GenerateResource.cache
+C:\Users\Данила\Desktop\ \эти ваши wpf\КурсС4\obj\Debug\КурсС4.csproj.CoreCompileInputs.cache
+C:\Users\Данила\Desktop\ \эти ваши wpf\КурсС4\obj\Debug\КурсС4.csproj.CopyComplete
+C:\Users\Данила\Desktop\ \эти ваши wpf\КурсС4\obj\Debug\КурсС4.exe
+C:\Users\Данила\Desktop\ \эти ваши wpf\КурсС4\obj\Debug\КурсС4.pdb
+C:\Users\Данила\Desktop\ \эти ваши wpf\КурсС4\obj\Debug\AddEditPageOrders.g.cs
+C:\Users\Данила\Desktop\ \эти ваши wpf\КурсС4\obj\Debug\AddEditPageOrders.baml
+C:\Users\PK-7\source\repos\КурсС4V3\bin\Debug\КурсС4.exe.config
+C:\Users\PK-7\source\repos\КурсС4V3\bin\Debug\КурсС4.exe
+C:\Users\PK-7\source\repos\КурсС4V3\bin\Debug\КурсС4.pdb
+C:\Users\PK-7\source\repos\КурсС4V3\bin\Debug\EntityFramework.dll
+C:\Users\PK-7\source\repos\КурсС4V3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PK-7\source\repos\КурсС4V3\bin\Debug\EntityFramework.xml
+C:\Users\PK-7\source\repos\КурсС4V3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PK-7\source\repos\КурсС4V3\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\PK-7\source\repos\КурсС4V3\obj\Debug\КурсС4.csproj.AssemblyReference.cache
+C:\Users\PK-7\source\repos\КурсС4V3\obj\Debug\AddEditPage.g.cs
+C:\Users\PK-7\source\repos\КурсС4V3\obj\Debug\AddEditPageOrders.g.cs
+C:\Users\PK-7\source\repos\КурсС4V3\obj\Debug\AddEditPageType.g.cs
+C:\Users\PK-7\source\repos\КурсС4V3\obj\Debug\AutPage.g.cs
+C:\Users\PK-7\source\repos\КурсС4V3\obj\Debug\ClientPage.g.cs
+C:\Users\PK-7\source\repos\КурсС4V3\obj\Debug\MainWindow.g.cs
+C:\Users\PK-7\source\repos\КурсС4V3\obj\Debug\MenuPage.g.cs
+C:\Users\PK-7\source\repos\КурсС4V3\obj\Debug\OrdersPage.g.cs
+C:\Users\PK-7\source\repos\КурсС4V3\obj\Debug\RegPage.g.cs
+C:\Users\PK-7\source\repos\КурсС4V3\obj\Debug\TypePage.g.cs
+C:\Users\PK-7\source\repos\КурсС4V3\obj\Debug\App.g.cs
+C:\Users\PK-7\source\repos\КурсС4V3\obj\Debug\КурсС4_Content.g.cs
+C:\Users\PK-7\source\repos\КурсС4V3\obj\Debug\КурсС4_MarkupCompile.cache
+C:\Users\PK-7\source\repos\КурсС4V3\obj\Debug\КурсС4_MarkupCompile.lref
+C:\Users\PK-7\source\repos\КурсС4V3\obj\Debug\AddEditPage.baml
+C:\Users\PK-7\source\repos\КурсС4V3\obj\Debug\AddEditPageOrders.baml
+C:\Users\PK-7\source\repos\КурсС4V3\obj\Debug\AddEditPageType.baml
+C:\Users\PK-7\source\repos\КурсС4V3\obj\Debug\AutPage.baml
+C:\Users\PK-7\source\repos\КурсС4V3\obj\Debug\ClientPage.baml
+C:\Users\PK-7\source\repos\КурсС4V3\obj\Debug\MainWindow.baml
+C:\Users\PK-7\source\repos\КурсС4V3\obj\Debug\MenuPage.baml
+C:\Users\PK-7\source\repos\КурсС4V3\obj\Debug\OrdersPage.baml
+C:\Users\PK-7\source\repos\КурсС4V3\obj\Debug\RegPage.baml
+C:\Users\PK-7\source\repos\КурсС4V3\obj\Debug\TypePage.baml
+C:\Users\PK-7\source\repos\КурсС4V3\obj\Debug\КурсС4.g.resources
+C:\Users\PK-7\source\repos\КурсС4V3\obj\Debug\КурсС4.Properties.Resources.resources
+C:\Users\PK-7\source\repos\КурсС4V3\obj\Debug\КурсС4.csproj.GenerateResource.cache
+C:\Users\PK-7\source\repos\КурсС4V3\obj\Debug\КурсС4.csproj.CoreCompileInputs.cache
+C:\Users\PK-7\source\repos\КурсС4V3\obj\Debug\КурсС4.csproj.CopyComplete
+C:\Users\PK-7\source\repos\КурсС4V3\obj\Debug\КурсС4.exe
+C:\Users\PK-7\source\repos\КурсС4V3\obj\Debug\КурсС4.pdb
+C:\Users\PK-7\source\repos\КурсС4V3\obj\Debug\App.baml
+C:\Users\PK-7\source\repos\КурсС4V3\obj\Debug\ManPage.g.cs
+C:\Users\PK-7\source\repos\КурсС4V3\obj\Debug\ManPage.baml
+E:\курса4\КурсС4V5\КурсС4V3\bin\Debug\КурсС4.exe.config
+E:\курса4\КурсС4V5\КурсС4V3\bin\Debug\КурсС4.exe
+E:\курса4\КурсС4V5\КурсС4V3\bin\Debug\КурсС4.pdb
+E:\курса4\КурсС4V5\КурсС4V3\bin\Debug\EntityFramework.dll
+E:\курса4\КурсС4V5\КурсС4V3\bin\Debug\EntityFramework.SqlServer.dll
+E:\курса4\КурсС4V5\КурсС4V3\bin\Debug\EntityFramework.xml
+E:\курса4\КурсС4V5\КурсС4V3\bin\Debug\EntityFramework.SqlServer.xml
+E:\курса4\КурсС4V5\КурсС4V3\bin\Debug\ru\EntityFramework.resources.dll
+E:\курса4\КурсС4V5\КурсС4V3\obj\Debug\КурсС4.csproj.AssemblyReference.cache
+E:\курса4\КурсС4V5\КурсС4V3\obj\Debug\КурсС4.csproj.SuggestedBindingRedirects.cache
+E:\курса4\КурсС4V5\КурсС4V3\obj\Debug\AddEditPage.g.cs
+E:\курса4\КурсС4V5\КурсС4V3\obj\Debug\AddEditPageOrders.g.cs
+E:\курса4\КурсС4V5\КурсС4V3\obj\Debug\AddEditPageType.g.cs
+E:\курса4\КурсС4V5\КурсС4V3\obj\Debug\AutPage.g.cs
+E:\курса4\КурсС4V5\КурсС4V3\obj\Debug\ClientPage.g.cs
+E:\курса4\КурсС4V5\КурсС4V3\obj\Debug\MainWindow.g.cs
+E:\курса4\КурсС4V5\КурсС4V3\obj\Debug\ManPage.g.cs
+E:\курса4\КурсС4V5\КурсС4V3\obj\Debug\MenuPage.g.cs
+E:\курса4\КурсС4V5\КурсС4V3\obj\Debug\OrdersPage.g.cs
+E:\курса4\КурсС4V5\КурсС4V3\obj\Debug\RegPage.g.cs
+E:\курса4\КурсС4V5\КурсС4V3\obj\Debug\TypePage.g.cs
+E:\курса4\КурсС4V5\КурсС4V3\obj\Debug\App.g.cs
+E:\курса4\КурсС4V5\КурсС4V3\obj\Debug\КурсС4_Content.g.cs
+E:\курса4\КурсС4V5\КурсС4V3\obj\Debug\КурсС4_MarkupCompile.cache
+E:\курса4\КурсС4V5\КурсС4V3\obj\Debug\КурсС4_MarkupCompile.lref
+E:\курса4\КурсС4V5\КурсС4V3\obj\Debug\App.baml
+E:\курса4\КурсС4V5\КурсС4V3\obj\Debug\AddEditPage.baml
+E:\курса4\КурсС4V5\КурсС4V3\obj\Debug\AddEditPageOrders.baml
+E:\курса4\КурсС4V5\КурсС4V3\obj\Debug\AddEditPageType.baml
+E:\курса4\КурсС4V5\КурсС4V3\obj\Debug\AutPage.baml
+E:\курса4\КурсС4V5\КурсС4V3\obj\Debug\ClientPage.baml
+E:\курса4\КурсС4V5\КурсС4V3\obj\Debug\MainWindow.baml
+E:\курса4\КурсС4V5\КурсС4V3\obj\Debug\ManPage.baml
+E:\курса4\КурсС4V5\КурсС4V3\obj\Debug\MenuPage.baml
+E:\курса4\КурсС4V5\КурсС4V3\obj\Debug\OrdersPage.baml
+E:\курса4\КурсС4V5\КурсС4V3\obj\Debug\RegPage.baml
+E:\курса4\КурсС4V5\КурсС4V3\obj\Debug\TypePage.baml
+E:\курса4\КурсС4V5\КурсС4V3\obj\Debug\КурсС4.g.resources
+E:\курса4\КурсС4V5\КурсС4V3\obj\Debug\КурсС4.Properties.Resources.resources
+E:\курса4\КурсС4V5\КурсС4V3\obj\Debug\КурсС4.csproj.GenerateResource.cache
+E:\курса4\КурсС4V5\КурсС4V3\obj\Debug\КурсС4.csproj.CoreCompileInputs.cache
+E:\курса4\КурсС4V5\КурсС4V3\obj\Debug\КурсС4.csproj.CopyComplete
+E:\курса4\КурсС4V5\КурсС4V3\obj\Debug\КурсС4.exe
+E:\курса4\КурсС4V5\КурсС4V3\obj\Debug\КурсС4.pdb
+F:\курса4\КурсС4V5\КурсС4V3\bin\Debug\КурсС4.exe.config
+F:\курса4\КурсС4V5\КурсС4V3\bin\Debug\КурсС4.exe
+F:\курса4\КурсС4V5\КурсС4V3\bin\Debug\КурсС4.pdb
+F:\курса4\КурсС4V5\КурсС4V3\bin\Debug\EntityFramework.dll
+F:\курса4\КурсС4V5\КурсС4V3\bin\Debug\EntityFramework.SqlServer.dll
+F:\курса4\КурсС4V5\КурсС4V3\bin\Debug\EntityFramework.xml
+F:\курса4\КурсС4V5\КурсС4V3\bin\Debug\EntityFramework.SqlServer.xml
+F:\курса4\КурсС4V5\КурсС4V3\bin\Debug\ru\EntityFramework.resources.dll
+F:\курса4\КурсС4V5\КурсС4V3\obj\Debug\КурсС4.csproj.AssemblyReference.cache
+F:\курса4\КурсС4V5\КурсС4V3\obj\Debug\AddEditPage.g.cs
+F:\курса4\КурсС4V5\КурсС4V3\obj\Debug\AddEditPageOrders.g.cs
+F:\курса4\КурсС4V5\КурсС4V3\obj\Debug\AddEditPageType.g.cs
+F:\курса4\КурсС4V5\КурсС4V3\obj\Debug\AutPage.g.cs
+F:\курса4\КурсС4V5\КурсС4V3\obj\Debug\ClientPage.g.cs
+F:\курса4\КурсС4V5\КурсС4V3\obj\Debug\MainWindow.g.cs
+F:\курса4\КурсС4V5\КурсС4V3\obj\Debug\ManPage.g.cs
+F:\курса4\КурсС4V5\КурсС4V3\obj\Debug\MenuPage.g.cs
+F:\курса4\КурсС4V5\КурсС4V3\obj\Debug\OrdersPage.g.cs
+F:\курса4\КурсС4V5\КурсС4V3\obj\Debug\RegPage.g.cs
+F:\курса4\КурсС4V5\КурсС4V3\obj\Debug\TypePage.g.cs
+F:\курса4\КурсС4V5\КурсС4V3\obj\Debug\App.g.cs
+F:\курса4\КурсС4V5\КурсС4V3\obj\Debug\КурсС4_Content.g.cs
+F:\курса4\КурсС4V5\КурсС4V3\obj\Debug\КурсС4_MarkupCompile.cache
+F:\курса4\КурсС4V5\КурсС4V3\obj\Debug\КурсС4_MarkupCompile.lref
+F:\курса4\КурсС4V5\КурсС4V3\obj\Debug\App.baml
+F:\курса4\КурсС4V5\КурсС4V3\obj\Debug\AddEditPage.baml
+F:\курса4\КурсС4V5\КурсС4V3\obj\Debug\AddEditPageOrders.baml
+F:\курса4\КурсС4V5\КурсС4V3\obj\Debug\AddEditPageType.baml
+F:\курса4\КурсС4V5\КурсС4V3\obj\Debug\AutPage.baml
+F:\курса4\КурсС4V5\КурсС4V3\obj\Debug\ClientPage.baml
+F:\курса4\КурсС4V5\КурсС4V3\obj\Debug\MainWindow.baml
+F:\курса4\КурсС4V5\КурсС4V3\obj\Debug\ManPage.baml
+F:\курса4\КурсС4V5\КурсС4V3\obj\Debug\MenuPage.baml
+F:\курса4\КурсС4V5\КурсС4V3\obj\Debug\OrdersPage.baml
+F:\курса4\КурсС4V5\КурсС4V3\obj\Debug\RegPage.baml
+F:\курса4\КурсС4V5\КурсС4V3\obj\Debug\TypePage.baml
+F:\курса4\КурсС4V5\КурсС4V3\obj\Debug\КурсС4.g.resources
+F:\курса4\КурсС4V5\КурсС4V3\obj\Debug\КурсС4.Properties.Resources.resources
+F:\курса4\КурсС4V5\КурсС4V3\obj\Debug\КурсС4.csproj.GenerateResource.cache
+F:\курса4\КурсС4V5\КурсС4V3\obj\Debug\КурсС4.csproj.CoreCompileInputs.cache
+F:\курса4\КурсС4V5\КурсС4V3\obj\Debug\КурсС4.exe
+F:\курса4\КурсС4V5\КурсС4V3\obj\Debug\КурсС4.pdb
+F:\курса4\КурсС4V5\КурсС4V3\obj\Debug\КурсС4.csproj.SuggestedBindingRedirects.cache
+F:\курса4\КурсС4V5\КурсС4V3\obj\Debug\КурсС4.csproj.CopyComplete
+C:\Users\Данила\Source\Repos\КурсС4V3\bin\Debug\КурсС4.exe.config
+C:\Users\Данила\Source\Repos\КурсС4V3\bin\Debug\КурсС4.exe
+C:\Users\Данила\Source\Repos\КурсС4V3\bin\Debug\КурсС4.pdb
+C:\Users\Данила\Source\Repos\КурсС4V3\bin\Debug\EntityFramework.dll
+C:\Users\Данила\Source\Repos\КурсС4V3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Данила\Source\Repos\КурсС4V3\bin\Debug\EntityFramework.xml
+C:\Users\Данила\Source\Repos\КурсС4V3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Данила\Source\Repos\КурсС4V3\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Данила\Source\Repos\КурсС4V3\obj\Debug\КурсС4.csproj.AssemblyReference.cache
+C:\Users\Данила\Source\Repos\КурсС4V3\obj\Debug\КурсС4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Данила\Source\Repos\КурсС4V3\obj\Debug\AddEditPage.g.cs
+C:\Users\Данила\Source\Repos\КурсС4V3\obj\Debug\AddEditPageOrders.g.cs
+C:\Users\Данила\Source\Repos\КурсС4V3\obj\Debug\AddEditPageType.g.cs
+C:\Users\Данила\Source\Repos\КурсС4V3\obj\Debug\AutPage.g.cs
+C:\Users\Данила\Source\Repos\КурсС4V3\obj\Debug\ClientPage.g.cs
+C:\Users\Данила\Source\Repos\КурсС4V3\obj\Debug\MainWindow.g.cs
+C:\Users\Данила\Source\Repos\КурсС4V3\obj\Debug\ManPage.g.cs
+C:\Users\Данила\Source\Repos\КурсС4V3\obj\Debug\MenuPage.g.cs
+C:\Users\Данила\Source\Repos\КурсС4V3\obj\Debug\OrdersPage.g.cs
+C:\Users\Данила\Source\Repos\КурсС4V3\obj\Debug\RegPage.g.cs
+C:\Users\Данила\Source\Repos\КурсС4V3\obj\Debug\TypePage.g.cs
+C:\Users\Данила\Source\Repos\КурсС4V3\obj\Debug\App.g.cs
+C:\Users\Данила\Source\Repos\КурсС4V3\obj\Debug\КурсС4_Content.g.cs
+C:\Users\Данила\Source\Repos\КурсС4V3\obj\Debug\КурсС4_MarkupCompile.cache
+C:\Users\Данила\Source\Repos\КурсС4V3\obj\Debug\КурсС4_MarkupCompile.lref
+C:\Users\Данила\Source\Repos\КурсС4V3\obj\Debug\App.baml
+C:\Users\Данила\Source\Repos\КурсС4V3\obj\Debug\AddEditPage.baml
+C:\Users\Данила\Source\Repos\КурсС4V3\obj\Debug\AddEditPageOrders.baml
+C:\Users\Данила\Source\Repos\КурсС4V3\obj\Debug\AddEditPageType.baml
+C:\Users\Данила\Source\Repos\КурсС4V3\obj\Debug\AutPage.baml
+C:\Users\Данила\Source\Repos\КурсС4V3\obj\Debug\ClientPage.baml
+C:\Users\Данила\Source\Repos\КурсС4V3\obj\Debug\MainWindow.baml
+C:\Users\Данила\Source\Repos\КурсС4V3\obj\Debug\ManPage.baml
+C:\Users\Данила\Source\Repos\КурсС4V3\obj\Debug\MenuPage.baml
+C:\Users\Данила\Source\Repos\КурсС4V3\obj\Debug\OrdersPage.baml
+C:\Users\Данила\Source\Repos\КурсС4V3\obj\Debug\RegPage.baml
+C:\Users\Данила\Source\Repos\КурсС4V3\obj\Debug\TypePage.baml
+C:\Users\Данила\Source\Repos\КурсС4V3\obj\Debug\КурсС4.g.resources
+C:\Users\Данила\Source\Repos\КурсС4V3\obj\Debug\КурсС4.Properties.Resources.resources
+C:\Users\Данила\Source\Repos\КурсС4V3\obj\Debug\КурсС4.csproj.GenerateResource.cache
+C:\Users\Данила\Source\Repos\КурсС4V3\obj\Debug\КурсС4.csproj.CoreCompileInputs.cache
+C:\Users\Данила\Source\Repos\КурсС4V3\obj\Debug\КурсС4.csproj.CopyComplete
+C:\Users\Данила\Source\Repos\КурсС4V3\obj\Debug\КурсС4.exe
+C:\Users\Данила\Source\Repos\КурсС4V3\obj\Debug\КурсС4.pdb
+F:\курса4\КурсС4V6\КурсС4V3\bin\Debug\КурсС4.exe.config
+F:\курса4\КурсС4V6\КурсС4V3\bin\Debug\КурсС4.exe
+F:\курса4\КурсС4V6\КурсС4V3\bin\Debug\КурсС4.pdb
+F:\курса4\КурсС4V6\КурсС4V3\bin\Debug\EntityFramework.dll
+F:\курса4\КурсС4V6\КурсС4V3\bin\Debug\EntityFramework.SqlServer.dll
+F:\курса4\КурсС4V6\КурсС4V3\bin\Debug\EntityFramework.xml
+F:\курса4\КурсС4V6\КурсС4V3\bin\Debug\EntityFramework.SqlServer.xml
+F:\курса4\КурсС4V6\КурсС4V3\bin\Debug\ru\EntityFramework.resources.dll
+F:\курса4\КурсС4V6\КурсС4V3\obj\Debug\КурсС4.csproj.AssemblyReference.cache
+F:\курса4\КурсС4V6\КурсС4V3\obj\Debug\КурсС4.csproj.SuggestedBindingRedirects.cache
+F:\курса4\КурсС4V6\КурсС4V3\obj\Debug\AddEditPage.g.cs
+F:\курса4\КурсС4V6\КурсС4V3\obj\Debug\AddEditPageOrders.g.cs
+F:\курса4\КурсС4V6\КурсС4V3\obj\Debug\AddEditPageType.g.cs
+F:\курса4\КурсС4V6\КурсС4V3\obj\Debug\AutPage.g.cs
+F:\курса4\КурсС4V6\КурсС4V3\obj\Debug\ClientPage.g.cs
+F:\курса4\КурсС4V6\КурсС4V3\obj\Debug\MainWindow.g.cs
+F:\курса4\КурсС4V6\КурсС4V3\obj\Debug\ManPage.g.cs
+F:\курса4\КурсС4V6\КурсС4V3\obj\Debug\MenuPage.g.cs
+F:\курса4\КурсС4V6\КурсС4V3\obj\Debug\OrdersPage.g.cs
+F:\курса4\КурсС4V6\КурсС4V3\obj\Debug\RegPage.g.cs
+F:\курса4\КурсС4V6\КурсС4V3\obj\Debug\TypePage.g.cs
+F:\курса4\КурсС4V6\КурсС4V3\obj\Debug\App.g.cs
+F:\курса4\КурсС4V6\КурсС4V3\obj\Debug\КурсС4_Content.g.cs
+F:\курса4\КурсС4V6\КурсС4V3\obj\Debug\КурсС4_MarkupCompile.cache
+F:\курса4\КурсС4V6\КурсС4V3\obj\Debug\КурсС4_MarkupCompile.lref
+F:\курса4\КурсС4V6\КурсС4V3\obj\Debug\App.baml
+F:\курса4\КурсС4V6\КурсС4V3\obj\Debug\AddEditPage.baml
+F:\курса4\КурсС4V6\КурсС4V3\obj\Debug\AddEditPageOrders.baml
+F:\курса4\КурсС4V6\КурсС4V3\obj\Debug\AddEditPageType.baml
+F:\курса4\КурсС4V6\КурсС4V3\obj\Debug\AutPage.baml
+F:\курса4\КурсС4V6\КурсС4V3\obj\Debug\ClientPage.baml
+F:\курса4\КурсС4V6\КурсС4V3\obj\Debug\MainWindow.baml
+F:\курса4\КурсС4V6\КурсС4V3\obj\Debug\ManPage.baml
+F:\курса4\КурсС4V6\КурсС4V3\obj\Debug\MenuPage.baml
+F:\курса4\КурсС4V6\КурсС4V3\obj\Debug\OrdersPage.baml
+F:\курса4\КурсС4V6\КурсС4V3\obj\Debug\RegPage.baml
+F:\курса4\КурсС4V6\КурсС4V3\obj\Debug\TypePage.baml
+F:\курса4\КурсС4V6\КурсС4V3\obj\Debug\КурсС4.g.resources
+F:\курса4\КурсС4V6\КурсС4V3\obj\Debug\КурсС4.Properties.Resources.resources
+F:\курса4\КурсС4V6\КурсС4V3\obj\Debug\КурсС4.csproj.GenerateResource.cache
+F:\курса4\КурсС4V6\КурсС4V3\obj\Debug\КурсС4.csproj.CoreCompileInputs.cache
+F:\курса4\КурсС4V6\КурсС4V3\obj\Debug\КурсС4.csproj.CopyComplete
+F:\курса4\КурсС4V6\КурсС4V3\obj\Debug\КурсС4.exe
+F:\курса4\КурсС4V6\КурсС4V3\obj\Debug\КурсС4.pdb
+C:\Users\Данила\Source\Repos\КурсС4V39\bin\Debug\КурсС4.exe.config
+C:\Users\Данила\Source\Repos\КурсС4V39\bin\Debug\КурсС4.exe
+C:\Users\Данила\Source\Repos\КурсС4V39\bin\Debug\КурсС4.pdb
+C:\Users\Данила\Source\Repos\КурсС4V39\bin\Debug\EntityFramework.dll
+C:\Users\Данила\Source\Repos\КурсС4V39\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Данила\Source\Repos\КурсС4V39\bin\Debug\EntityFramework.xml
+C:\Users\Данила\Source\Repos\КурсС4V39\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Данила\Source\Repos\КурсС4V39\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Данила\Source\Repos\КурсС4V39\obj\Debug\КурсС4.csproj.AssemblyReference.cache
+C:\Users\Данила\Source\Repos\КурсС4V39\obj\Debug\КурсС4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Данила\Source\Repos\КурсС4V39\obj\Debug\AddEditPage.g.cs
+C:\Users\Данила\Source\Repos\КурсС4V39\obj\Debug\AddEditPageOrders.g.cs
+C:\Users\Данила\Source\Repos\КурсС4V39\obj\Debug\AddEditPageType.g.cs
+C:\Users\Данила\Source\Repos\КурсС4V39\obj\Debug\AutPage.g.cs
+C:\Users\Данила\Source\Repos\КурсС4V39\obj\Debug\ClientPage.g.cs
+C:\Users\Данила\Source\Repos\КурсС4V39\obj\Debug\MainWindow.g.cs
+C:\Users\Данила\Source\Repos\КурсС4V39\obj\Debug\ManPage.g.cs
+C:\Users\Данила\Source\Repos\КурсС4V39\obj\Debug\MenuPage.g.cs
+C:\Users\Данила\Source\Repos\КурсС4V39\obj\Debug\OrdersPage.g.cs
+C:\Users\Данила\Source\Repos\КурсС4V39\obj\Debug\RegPage.g.cs
+C:\Users\Данила\Source\Repos\КурсС4V39\obj\Debug\TypePage.g.cs
+C:\Users\Данила\Source\Repos\КурсС4V39\obj\Debug\App.g.cs
+C:\Users\Данила\Source\Repos\КурсС4V39\obj\Debug\КурсС4_Content.g.cs
+C:\Users\Данила\Source\Repos\КурсС4V39\obj\Debug\КурсС4_MarkupCompile.cache
+C:\Users\Данила\Source\Repos\КурсС4V39\obj\Debug\КурсС4_MarkupCompile.lref
+C:\Users\Данила\Source\Repos\КурсС4V39\obj\Debug\App.baml
+C:\Users\Данила\Source\Repos\КурсС4V39\obj\Debug\AddEditPage.baml
+C:\Users\Данила\Source\Repos\КурсС4V39\obj\Debug\AddEditPageOrders.baml
+C:\Users\Данила\Source\Repos\КурсС4V39\obj\Debug\AddEditPageType.baml
+C:\Users\Данила\Source\Repos\КурсС4V39\obj\Debug\AutPage.baml
+C:\Users\Данила\Source\Repos\КурсС4V39\obj\Debug\ClientPage.baml
+C:\Users\Данила\Source\Repos\КурсС4V39\obj\Debug\MainWindow.baml
+C:\Users\Данила\Source\Repos\КурсС4V39\obj\Debug\ManPage.baml
+C:\Users\Данила\Source\Repos\КурсС4V39\obj\Debug\MenuPage.baml
+C:\Users\Данила\Source\Repos\КурсС4V39\obj\Debug\OrdersPage.baml
+C:\Users\Данила\Source\Repos\КурсС4V39\obj\Debug\RegPage.baml
+C:\Users\Данила\Source\Repos\КурсС4V39\obj\Debug\TypePage.baml
+C:\Users\Данила\Source\Repos\КурсС4V39\obj\Debug\КурсС4.g.resources
+C:\Users\Данила\Source\Repos\КурсС4V39\obj\Debug\КурсС4.Properties.Resources.resources
+C:\Users\Данила\Source\Repos\КурсС4V39\obj\Debug\КурсС4.csproj.GenerateResource.cache
+C:\Users\Данила\Source\Repos\КурсС4V39\obj\Debug\КурсС4.csproj.CoreCompileInputs.cache
+C:\Users\Данила\Source\Repos\КурсС4V39\obj\Debug\КурсС4.csproj.CopyComplete
+C:\Users\Данила\Source\Repos\КурсС4V39\obj\Debug\КурсС4.exe
+C:\Users\Данила\Source\Repos\КурсС4V39\obj\Debug\КурсС4.pdb
+C:\Users\Данила\Source\Repos\Курс\bin\Debug\КурсС4.exe.config
+C:\Users\Данила\Source\Repos\Курс\bin\Debug\КурсС4.exe
+C:\Users\Данила\Source\Repos\Курс\bin\Debug\КурсС4.pdb
+C:\Users\Данила\Source\Repos\Курс\bin\Debug\EntityFramework.dll
+C:\Users\Данила\Source\Repos\Курс\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Данила\Source\Repos\Курс\bin\Debug\EntityFramework.xml
+C:\Users\Данила\Source\Repos\Курс\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Данила\Source\Repos\Курс\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Данила\Source\Repos\Курс\obj\Debug\КурсС4.csproj.AssemblyReference.cache
+C:\Users\Данила\Source\Repos\Курс\obj\Debug\КурсС4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Данила\Source\Repos\Курс\obj\Debug\AddEditPage.g.cs
+C:\Users\Данила\Source\Repos\Курс\obj\Debug\AddEditPageOrders.g.cs
+C:\Users\Данила\Source\Repos\Курс\obj\Debug\AddEditPageType.g.cs
+C:\Users\Данила\Source\Repos\Курс\obj\Debug\AutPage.g.cs
+C:\Users\Данила\Source\Repos\Курс\obj\Debug\ClientPage.g.cs
+C:\Users\Данила\Source\Repos\Курс\obj\Debug\MainWindow.g.cs
+C:\Users\Данила\Source\Repos\Курс\obj\Debug\ManPage.g.cs
+C:\Users\Данила\Source\Repos\Курс\obj\Debug\MenuPage.g.cs
+C:\Users\Данила\Source\Repos\Курс\obj\Debug\OrdersPage.g.cs
+C:\Users\Данила\Source\Repos\Курс\obj\Debug\RegPage.g.cs
+C:\Users\Данила\Source\Repos\Курс\obj\Debug\TypePage.g.cs
+C:\Users\Данила\Source\Repos\Курс\obj\Debug\App.g.cs
+C:\Users\Данила\Source\Repos\Курс\obj\Debug\КурсС4_Content.g.cs
+C:\Users\Данила\Source\Repos\Курс\obj\Debug\КурсС4_MarkupCompile.cache
+C:\Users\Данила\Source\Repos\Курс\obj\Debug\КурсС4_MarkupCompile.lref
+C:\Users\Данила\Source\Repos\Курс\obj\Debug\App.baml
+C:\Users\Данила\Source\Repos\Курс\obj\Debug\AddEditPage.baml
+C:\Users\Данила\Source\Repos\Курс\obj\Debug\AddEditPageOrders.baml
+C:\Users\Данила\Source\Repos\Курс\obj\Debug\AddEditPageType.baml
+C:\Users\Данила\Source\Repos\Курс\obj\Debug\AutPage.baml
+C:\Users\Данила\Source\Repos\Курс\obj\Debug\ClientPage.baml
+C:\Users\Данила\Source\Repos\Курс\obj\Debug\MainWindow.baml
+C:\Users\Данила\Source\Repos\Курс\obj\Debug\ManPage.baml
+C:\Users\Данила\Source\Repos\Курс\obj\Debug\MenuPage.baml
+C:\Users\Данила\Source\Repos\Курс\obj\Debug\OrdersPage.baml
+C:\Users\Данила\Source\Repos\Курс\obj\Debug\RegPage.baml
+C:\Users\Данила\Source\Repos\Курс\obj\Debug\TypePage.baml
+C:\Users\Данила\Source\Repos\Курс\obj\Debug\КурсС4.g.resources
+C:\Users\Данила\Source\Repos\Курс\obj\Debug\КурсС4.Properties.Resources.resources
+C:\Users\Данила\Source\Repos\Курс\obj\Debug\КурсС4.csproj.GenerateResource.cache
+C:\Users\Данила\Source\Repos\Курс\obj\Debug\КурсС4.csproj.CoreCompileInputs.cache
+C:\Users\Данила\Source\Repos\Курс\obj\Debug\КурсС4.csproj.CopyComplete
+C:\Users\Данила\Source\Repos\Курс\obj\Debug\КурсС4.exe
+C:\Users\Данила\Source\Repos\Курс\obj\Debug\КурсС4.pdb
+C:\Users\Данила\Source\Repos\Курс\obj\Debug\ManagerPage.g.cs
+C:\Users\Данила\Source\Repos\Курс\obj\Debug\ManagerPage.baml
+C:\Users\Данила\Desktop\ \Курс\bin\Debug\КурсС4.exe.config
+C:\Users\Данила\Desktop\ \Курс\bin\Debug\КурсС4.exe
+C:\Users\Данила\Desktop\ \Курс\bin\Debug\КурсС4.pdb
+C:\Users\Данила\Desktop\ \Курс\bin\Debug\EntityFramework.dll
+C:\Users\Данила\Desktop\ \Курс\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Данила\Desktop\ \Курс\bin\Debug\EntityFramework.xml
+C:\Users\Данила\Desktop\ \Курс\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Данила\Desktop\ \Курс\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Данила\Desktop\ \Курс\obj\Debug\КурсС4.csproj.AssemblyReference.cache
+C:\Users\Данила\Desktop\ \Курс\obj\Debug\КурсС4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Данила\Desktop\ \Курс\obj\Debug\AddEditPage.g.cs
+C:\Users\Данила\Desktop\ \Курс\obj\Debug\AddEditPageOrders.g.cs
+C:\Users\Данила\Desktop\ \Курс\obj\Debug\AddEditPageType.g.cs
+C:\Users\Данила\Desktop\ \Курс\obj\Debug\AutPage.g.cs
+C:\Users\Данила\Desktop\ \Курс\obj\Debug\ClientPage.g.cs
+C:\Users\Данила\Desktop\ \Курс\obj\Debug\MainWindow.g.cs
+C:\Users\Данила\Desktop\ \Курс\obj\Debug\ManagerPage.g.cs
+C:\Users\Данила\Desktop\ \Курс\obj\Debug\ManPage.g.cs
+C:\Users\Данила\Desktop\ \Курс\obj\Debug\MenuPage.g.cs
+C:\Users\Данила\Desktop\ \Курс\obj\Debug\OrdersPage.g.cs
+C:\Users\Данила\Desktop\ \Курс\obj\Debug\RegPage.g.cs
+C:\Users\Данила\Desktop\ \Курс\obj\Debug\TypePage.g.cs
+C:\Users\Данила\Desktop\ \Курс\obj\Debug\App.g.cs
+C:\Users\Данила\Desktop\ \Курс\obj\Debug\КурсС4_Content.g.cs
+C:\Users\Данила\Desktop\ \Курс\obj\Debug\КурсС4_MarkupCompile.cache
+C:\Users\Данила\Desktop\ \Курс\obj\Debug\КурсС4_MarkupCompile.lref
+C:\Users\Данила\Desktop\ \Курс\obj\Debug\App.baml
+C:\Users\Данила\Desktop\ \Курс\obj\Debug\AddEditPage.baml
+C:\Users\Данила\Desktop\ \Курс\obj\Debug\AddEditPageOrders.baml
+C:\Users\Данила\Desktop\ \Курс\obj\Debug\AddEditPageType.baml
+C:\Users\Данила\Desktop\ \Курс\obj\Debug\AutPage.baml
+C:\Users\Данила\Desktop\ \Курс\obj\Debug\ClientPage.baml
+C:\Users\Данила\Desktop\ \Курс\obj\Debug\MainWindow.baml
+C:\Users\Данила\Desktop\ \Курс\obj\Debug\ManagerPage.baml
+C:\Users\Данила\Desktop\ \Курс\obj\Debug\ManPage.baml
+C:\Users\Данила\Desktop\ \Курс\obj\Debug\MenuPage.baml
+C:\Users\Данила\Desktop\ \Курс\obj\Debug\OrdersPage.baml
+C:\Users\Данила\Desktop\ \Курс\obj\Debug\RegPage.baml
+C:\Users\Данила\Desktop\ \Курс\obj\Debug\TypePage.baml
+C:\Users\Данила\Desktop\ \Курс\obj\Debug\КурсС4.g.resources
+C:\Users\Данила\Desktop\ \Курс\obj\Debug\КурсС4.Properties.Resources.resources
+C:\Users\Данила\Desktop\ \Курс\obj\Debug\КурсС4.csproj.GenerateResource.cache
+C:\Users\Данила\Desktop\ \Курс\obj\Debug\КурсС4.csproj.CoreCompileInputs.cache
+C:\Users\Данила\Desktop\ \Курс\obj\Debug\КурсС4.csproj.CopyComplete
+C:\Users\Данила\Desktop\ \Курс\obj\Debug\КурсС4.exe
+C:\Users\Данила\Desktop\ \Курс\obj\Debug\КурсС4.pdb
